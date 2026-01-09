@@ -5,6 +5,6 @@ export default defineConfig({
   schema: "./shared/schema.ts",
   dialect: "postgresql",
   dbCredentials: {
-    url: "postgresql://postgres:password@localhost:5433/postgres",
+    url: "postgresql://postgres:password@localhost:5432/postgres",
   },
 });
