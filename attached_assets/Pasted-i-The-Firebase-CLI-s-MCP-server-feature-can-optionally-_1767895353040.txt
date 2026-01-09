@@ -1,0 +1,50 @@
+i  The Firebase CLI’s MCP server feature can optionally make use of Gemini in Firebase. Learn more about Gemini in Firebase and how it uses your data: https://firebase.google.com/docs/gemini-in-firebase#how-gemini-in-firebase-uses-your-data
+? Enable Gemini in Firebase features? (Y/n)? Enable Gemini in Firebase features? (Y/n) Y✔ Enable Gemini in Firebase features? Yes
+
+i  Firebase optionally collects CLI and Emulator Suite usage and error reporting information to help improve our products. Data is collected in accordance with Google's privacy policy (https://policies.google.com/privacy) and is not used to identify you.
+? Allow Firebase to collect CLI and Emulator Suite usage and error reporting 
+information? (Y/n)? Allow Firebase to collect CLI and Emulator Suite usage and error reporting 
+information? (Y/n) Y✔ Allow Firebase to collect CLI and Emulator Suite usage and error reporting 
+information? Yes
+
+i  To change your preferences at any time, run `firebase logout` and `firebase login` again.
+
+To sign in to the Firebase CLI:
+
+1. Take note of your session ID:
+
+   F402A
+
+2. Visit the URL below on any device and follow the instructions to get your code:
+
+   https://auth.firebase.tools/login?code_challenge=WtD659CZUB5uQtIghOiTMFM0Qzi5U39DfvrZ1lDJdJs&session=f402a604-9d58-47c5-9e8f-8d885f4776f1&attest=9ar4c4uCSUIlTL3Zx4vc82jGNQTEgmjnBdGaZE4QrVM
+
+3. Paste or enter the authorization code below once you have it:
+
+? Enter authorization code:? Enter authorization code: 4? Enter authorization code: 4/? Enter authorization code: 4/0? Enter authorization code: 4/0A? Enter authorization code: 4/0AT? Enter authorization code: 4/0ATX? Enter authorization code: 4/0ATX8? Enter authorization code: 4/0ATX87? Enter authorization code: 4/0ATX87l? Enter authorization code: 4/0ATX87lP? Enter authorization code: 4/0ATX87lPX? Enter authorization code: 4/0ATX87lPXC? Enter authorization code: 4/0ATX87lPXCa? Enter authorization code: 4/0ATX87lPXCaX? Enter authorization code: 4/0ATX87lPXCaXk? Enter authorization code: 4/0ATX87lPXCaXkC? Enter authorization code: 4/0ATX87lPXCaXkC3? Enter authorization code: 4/0ATX87lPXCaXkC3p? Enter authorization code: 4/0ATX87lPXCaXkC3px? Enter authorization code: 4/0ATX87lPXCaXkC3pxo? Enter authorization code: 4/0ATX87lPXCaXkC3pxob? Enter authorization code: 4/0ATX87lPXCaXkC3pxob2? Enter authorization code: 4/0ATX87lPXCaXkC3pxob23? Enter authorization code: 4/0ATX87lPXCaXkC3pxob230? Enter authorization code: 4/0ATX87lPXCaXkC3pxob230O? Enter authorization code: 4/0ATX87lPXCaXkC3pxob230O7? Enter authorization code: 4/0ATX87lPXCaXkC3pxob230O7x? Enter authorization code: 4/0ATX87lPXCaXkC3pxob230O7xl? Enter authorization code: 4/0ATX87lPXCaXkC3pxob230O7xla? Enter authorization code: 4/0ATX87lPXCaXkC3pxob230O7xlar? Enter authorization code: 4/0ATX87lPXCaXkC3pxob230O7xlarV? Enter authorization code: 4/0ATX87lPXCaXkC3pxob230O7xlarVE? Enter authorization code: 4/0ATX87lPXCaXkC3pxob230O7xlarVE3? Enter authorization code: 4/0ATX87lPXCaXkC3pxob230O7xlarVE3J? Enter authorization code: 4/0ATX87lPXCaXkC3pxob230O7xlarVE3J_? Enter authorization code: 4/0ATX87lPXCaXkC3pxob230O7xlarVE3J_p? Enter authorization code: 4/0ATX87lPXCaXkC3pxob230O7xlarVE3J_pw? Enter authorization code: 4/0ATX87lPXCaXkC3pxob230O7xlarVE3J_pwz? Enter authorization code: 4/0ATX87lPXCaXkC3pxob230O7xlarVE3J_pwzP? Enter authorization code: 4/0ATX87lPXCaXkC3pxob230O7xlarVE3J_pwzPy? Enter authorization code: 4/0ATX87lPXCaXkC3pxob230O7xlarVE3J_pwzPyi? Enter authorization code: 4/0ATX87lPXCaXkC3pxob230O7xlarVE3J_pwzPyif? Enter authorization code: 4/0ATX87lPXCaXkC3pxob230O7xlarVE3J_pwzPyifH? Enter authorization code: 4/0ATX87lPXCaXkC3pxob230O7xlarVE3J_pwzPyifHs? Enter authorization code: 4/0ATX87lPXCaXkC3pxob230O7xlarVE3J_pwzPyifHse? Enter authorization code: 4/0ATX87lPXCaXkC3pxob230O7xlarVE3J_pwzPyifHse0? Enter authorization code: 4/0ATX87lPXCaXkC3pxob230O7xlarVE3J_pwzPyifHse08? Enter authorization code: 4/0ATX87lPXCaXkC3pxob230O7xlarVE3J_pwzPyifHse08a? Enter authorization code: 4/0ATX87lPXCaXkC3pxob230O7xlarVE3J_pwzPyifHse08ah? Enter authorization code: 4/0ATX87lPXCaXkC3pxob230O7xlarVE3J_pwzPyifHse08ahh? Enter authorization code: 4/0ATX87lPXCaXkC3pxob230O7xlarVE3J_pwzPyifHse08ahhM? Enter authorization code: 4/0ATX87lPXCaXkC3pxob230O7xlarVE3J_pwzPyifHse08ahhMa
+? Enter authorization code:
+4/0ATX87lPXCaXkC3pxob230O7xlarVE3J_pwzPyifHse08ahhMaP? Enter authorization code:
+4/0ATX87lPXCaXkC3pxob230O7xlarVE3J_pwzPyifHse08ahhMaPx? Enter authorization code:
+4/0ATX87lPXCaXkC3pxob230O7xlarVE3J_pwzPyifHse08ahhMaPxk? Enter authorization code:
+4/0ATX87lPXCaXkC3pxob230O7xlarVE3J_pwzPyifHse08ahhMaPxkD? Enter authorization code:
+4/0ATX87lPXCaXkC3pxob230O7xlarVE3J_pwzPyifHse08ahhMaPxkDq? Enter authorization code:
+4/0ATX87lPXCaXkC3pxob230O7xlarVE3J_pwzPyifHse08ahhMaPxkDqL? Enter authorization code:
+4/0ATX87lPXCaXkC3pxob230O7xlarVE3J_pwzPyifHse08ahhMaPxkDqLP? Enter authorization code:
+4/0ATX87lPXCaXkC3pxob230O7xlarVE3J_pwzPyifHse08ahhMaPxkDqLP8? Enter authorization code:
+4/0ATX87lPXCaXkC3pxob230O7xlarVE3J_pwzPyifHse08ahhMaPxkDqLP8G? Enter authorization code:
+4/0ATX87lPXCaXkC3pxob230O7xlarVE3J_pwzPyifHse08ahhMaPxkDqLP8GF? Enter authorization code:
+4/0ATX87lPXCaXkC3pxob230O7xlarVE3J_pwzPyifHse08ahhMaPxkDqLP8GFG? Enter authorization code:
+4/0ATX87lPXCaXkC3pxob230O7xlarVE3J_pwzPyifHse08ahhMaPxkDqLP8GFGg? Enter authorization code:
+4/0ATX87lPXCaXkC3pxob230O7xlarVE3J_pwzPyifHse08ahhMaPxkDqLP8GFGgs? Enter authorization code:
+4/0ATX87lPXCaXkC3pxob230O7xlarVE3J_pwzPyifHse08ahhMaPxkDqLP8GFGgsY? Enter authorization code:
+4/0ATX87lPXCaXkC3pxob230O7xlarVE3J_pwzPyifHse08ahhMaPxkDqLP8GFGgsYp? Enter authorization code:
+4/0ATX87lPXCaXkC3pxob230O7xlarVE3J_pwzPyifHse08ahhMaPxkDqLP8GFGgsYpX? Enter authorization code:
+4/0ATX87lPXCaXkC3pxob230O7xlarVE3J_pwzPyifHse08ahhMaPxkDqLP8GFGgsYpXR? Enter authorization code:
+4/0ATX87lPXCaXkC3pxob230O7xlarVE3J_pwzPyifHse08ahhMaPxkDqLP8GFGgsYpXRB? Enter authorization code:
+4/0ATX87lPXCaXkC3pxob230O7xlarVE3J_pwzPyifHse08ahhMaPxkDqLP8GFGgsYpXRBF? Enter authorization code:
+4/0ATX87lPXCaXkC3pxob230O7xlarVE3J_pwzPyifHse08ahhMaPxkDqLP8GFGgsYpXRBFK? Enter authorization code:
+4/0ATX87lPXCaXkC3pxob230O7xlarVE3J_pwzPyifHse08ahhMaPxkDqLP8GFGgsYpXRBFKg? Enter authorization code:
+4/0ATX87lPXCaXkC3pxob230O7xlarVE3J_pwzPyifHse08ahhMaPxkDqLP8GFGgsYpXRBFKg✔ Enter authorization code:
+4/0ATX87lPXCaXkC3pxob230O7xlarVE3J_pwzPyifHse08ahhMaPxkDqLP8GFGgsYpXRBFKg
+
+✔  Success! Logged in as lion111kings@gmail.com
